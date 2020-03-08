@@ -1,1 +1,1 @@
-print("welcome to lipa na mpesa pesa pap")  
+print ("hello world") 
