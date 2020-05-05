@@ -1,1 +1,0 @@
-print ("lipa na mpesa")
